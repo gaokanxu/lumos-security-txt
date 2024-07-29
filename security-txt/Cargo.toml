@@ -1,5 +1,5 @@
 [package]
-name = "lumos-security-txt"
+name = "security-txt"
 version = "1.1.1"
 edition = "2021"
 description = "security-txt is a macro that helps security researchers contact you about vulnerabilities in your smart contract"
